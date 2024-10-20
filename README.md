@@ -5,7 +5,7 @@ Control the network-connected Mac
 - Easy to use for maintenance or production team about rebooting the Mac
 - Remove memory overload due to long running
 - Creat Efficiency of Repated Operations
-<img width="549" alt="image" src="https://github.com/user-attachments/assets/023f4a8f-1fa9-4a09-9127-1d7031479815">
+<img width="554" alt="image" src="https://github.com/user-attachments/assets/74f9786e-ae1b-418f-b7f7-cb8d6aea48eb">
 
 #### Knowledge
 - Making the Data load System
