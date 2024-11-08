@@ -7,6 +7,9 @@ Control the network-connected Mac
 - Creat Efficiency of Repated Operations
 <img width="554" alt="image" src="https://github.com/user-attachments/assets/74f9786e-ae1b-418f-b7f7-cb8d6aea48eb">
 
+#### Application Simulation
+![image](https://github.com/user-attachments/assets/b43a206a-e821-496f-baaf-05081058c07f)
+
 #### Knowledge
 - Making the Data load System
   - Attempt JSON Code to eliminate repeated Data input
