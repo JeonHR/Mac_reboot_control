@@ -8,7 +8,7 @@ Control the network-connected Mac
 <img width="554" alt="image" src="https://github.com/user-attachments/assets/74f9786e-ae1b-418f-b7f7-cb8d6aea48eb">
 
 #### Application Simulation
-![image](https://github.com/user-attachments/assets/be1be570-6929-4a30-ac55-198fb3e86469)
+![image](https://github.com/user-attachments/assets/071e2710-fa8e-425e-bfff-c8cdb4985ab0)
 
 #### Knowledge
 - Making the Data load System
